@@ -32,6 +32,8 @@ This project is a cross-platform system monitor and task manager that connects t
 - **Shadcn-svelte**: Beautifully designed components that you can copy and paste into your apps.
 - **TypeScript**: Type safety and robust development experience
 
+
+
 ## Getting Started
 
 1. Clone the repository:
