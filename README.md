@@ -36,6 +36,8 @@ This project is a cross-platform system monitor and task manager that connects t
 
 ## Getting Started
 
+
+
 1. Clone the repository:
 
    ```bash
