@@ -7,6 +7,8 @@
 
 # Remote System Monitor (Tsumari)
 
+
+
 This project is a cross-platform system monitor and task manager that connects to remote machines over SSH, gathering and displaying system information using **Tauri** for the desktop app framework, **SvelteKit** for the front end, and **TypeScript** for type safety. The project utilizes **shadcn-sveltekit** for streamlined component styling and UI design.
 
 ## Features
