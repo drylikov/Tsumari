@@ -21,6 +21,8 @@ This project is a cross-platform system monitor and task manager that connects t
 - Monitors system resources and running tasks
 - Displays information in a responsive, user-friendly interface
 
+
+
 ## Tech Stack
 
 - **Tauri**: Lightweight, secure desktop applications with web technologies
