@@ -25,6 +25,8 @@ This project is a cross-platform system monitor and task manager that connects t
 
 ## Tech Stack
 
+
+
 - **Tauri**: Lightweight, secure desktop applications with web technologies
 - **SvelteKit**: Fast and modern front-end framework for building reactive interfaces
 - **Shadcn-svelte**: Beautifully designed components that you can copy and paste into your apps.
