@@ -15,6 +15,8 @@ This project is a cross-platform system monitor and task manager that connects t
 
 ## Features
 
+
+
 - Connects securely to remote machines via SSH
 - Monitors system resources and running tasks
 - Displays information in a responsive, user-friendly interface
